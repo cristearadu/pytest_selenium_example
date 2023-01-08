@@ -1,0 +1,6 @@
+pytest
+selenium
+chromedriver-autoinstaller
+webdriver-manager
+retry
+webdriver_manager
